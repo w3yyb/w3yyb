@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=w3yyb)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **w3yyb/w3yyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
