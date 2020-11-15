@@ -4,7 +4,7 @@
 <a href="https://weibo.com/yyb8">
   <img align="left" alt="sina weibo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/sinaweibo.svg" />
 </a>
- <a href="#">
+ <a href="#" title="wechat:微信:mLenix">
   <img align="left" alt="wechat:微信:mLenix" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/wechat.svg" />
 </a>
  
@@ -14,7 +14,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/w3yyb?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.p2hp.com/)](https://www.p2hp.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=w3yyb.w3yyb)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <br />
 
@@ -22,13 +21,6 @@ Hi, I'm [Lenix](https://blog.p2hp.com/), a Full Stack Developer 🚀 from China.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
 **Languages and Tools:**  
 
