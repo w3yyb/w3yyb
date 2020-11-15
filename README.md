@@ -23,11 +23,15 @@
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+![GitHub followers](https://img.shields.io/github/followers/w3yyb?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.p2hp.com/)](https://www.p2hp.com/)
+![](https://visitor-badge.glitch.me/badge?page_id=w3yyb.w3yyb)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Lenix](https://blog.p2hp.com/), a Full Stack Developer 🚀 from China, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -59,10 +63,6 @@ Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Develop
 
 
 
-![GitHub followers](https://img.shields.io/github/followers/w3yyb?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.p2hp.com/)](https://www.p2hp.com/)
-![](https://visitor-badge.glitch.me/badge?page_id=w3yyb.w3yyb)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=w3yyb)](https://github.com/anuraghazra/github-readme-stats)
