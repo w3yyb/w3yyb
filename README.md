@@ -40,7 +40,7 @@ Hi, I'm [Lenix](https://blog.p2hp.com/), a Full Stack Developer 🚀 from China.
 <br>
 **other skills:**
 <br>
-mqtt nginx swoole AI ffmpeg  restful seo svn  domain devops website
+mqtt nginx swoole AI ffmpeg Elasticsearch  restful seo svn  domain devops website
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=w3yyb)](https://github.com/anuraghazra/github-readme-stats)
 
